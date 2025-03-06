@@ -1,4 +1,4 @@
-# Unimate Chatbot - Student Support Assistant
+# UnIMate Chatbot - Student Support Assistant
 
 Unimate is a chatbot designed to assist students with common administrative queries, course information, and campus events using **Natural Language Processing (NLP)** with **Python, Flask, NLTK, and spaCy**.
 
